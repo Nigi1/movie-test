@@ -1,14 +1,27 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+{"movies": [
+  {
+    "title": "The Shawshank Redemption",
+    "releaseDate": "1994-09-23",
+    "coverPicture": "https://image.tmdb.org/t/p/original/y3ULnBxPeEsUmgK2hSvFkzkIpYF.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "releaseDate": "1972-03-24",
+    "coverPicture": "https://picfiles.alphacoders.com/137/thumb-1920-137115.jpg"
+  },
+  {
+    "title": "Inception",
+    "releaseDate": "2010-07-16",
+    "coverPicture": "https://flxt.tmsimg.com/assets/p7825626_p_v8_af.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "releaseDate": "2014-11-07",
+    "coverPicture": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2021/08/19085635/gEU2QniE6E77NI6lCU6MxlNBvIx-scaled.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "releaseDate": "2008-07-18",
+    "coverPicture": "https://image.tmdb.org/t/p/original/eP5NL7ZlGoW9tE9qnCdHpOLH1Ke.jpg"
   }
-}
+]}
